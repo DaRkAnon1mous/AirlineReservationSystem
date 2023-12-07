@@ -14,18 +14,18 @@ The Airline Reservation System is a collaborative project developed by a team of
 
 - **Backend Expertise (Your Role):** Implemented the backend logic and database functionality using PHP and MySQL, ensuring smooth data flow and system operations.
 
-Team Members
-Backend Developer and Database Specialist (You):
+<h3>Team Members</h3>
+**Backend Developer and Database Specialist (You):** <br>
+Implemented backend logic and database functionality using PHP and MySQL for efficient data management. <br>
 
-Implemented backend logic and database functionality using PHP and MySQL for efficient data management.
-Frontend Developers:
+**Frontend Developers:**
+Created an engaging and user-friendly frontend interface using HTML, CSS, and JavaScript. <br>
 
-Created an engaging and user-friendly frontend interface using HTML, CSS, and JavaScript.
-Discount Specialist:
+**Discount Specialist:**
+Worked on designing and implementing dynamic discount functionalities catering to different user categories. <br>
 
-Worked on designing and implementing dynamic discount functionalities catering to different user categories.
-UI/UX Designer:
+**UI/UX Designer:**
+Ensured an aesthetically pleasing and accessible design for an optimal user experience. <br>
 
-Ensured an aesthetically pleasing and accessible design for an optimal user experience.
-Acknowledgments
+<h3>Acknowledgments</h3>
 Special thanks to the entire team for their collaborative efforts in developing the Airline Reservation System. Together, we've created a system that not only simplifies flight reservations but also enhances accessibility through dynamic discount offerings.
